@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 💬 Ask me about **Ethical Hcking, Networking, Python**
+- 💬 Ask me about **Ethical Hacking, Networking, Python**
 
 - 📫 How to reach me **hackersitanshu11177@gmail.com**
 
